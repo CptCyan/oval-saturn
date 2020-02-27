@@ -1,3 +1,7 @@
+---
+published: false
+
+---
 # Reflex
 
 A multipage theme with posts for Stackbit. [Live Demo](https://themes.stackbit.com/demos/reflex)
