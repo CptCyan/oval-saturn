@@ -6,10 +6,10 @@ sections:
   content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
     rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
   actions:
-  - label: Get Started
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  - label: Découvrir le parc
+    url: "#"
+    is_scrolly: true
+    is_primary: true
   title: Tir à l'arc
   img_path: images/pic01.jpg
   component: intro.html
