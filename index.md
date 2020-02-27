@@ -14,8 +14,8 @@ sections:
     url: "#"
     is_scrolly: true
     is_primary: true
-  title: Tir à l'arc
-  img_path: images/pic01.jpg
+  title: L'Arc d'Or - Parcours de tir à l'arc entre champs et forêt
+  img_path: "/images/parc-01-2020.jpg"
   component: intro.html
 layout: home
 menu:
