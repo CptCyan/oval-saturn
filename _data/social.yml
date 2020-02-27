@@ -6,7 +6,8 @@ social_content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis da
   per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
 social_links:
 - title: Facebook
-  icon: fab fa-facebook
+  icon: fa-facebook
+  link_url: "#"
 - title: Instagram
   icon: fa-instagram
   link_url: "#"
