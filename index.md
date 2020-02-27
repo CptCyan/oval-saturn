@@ -1,5 +1,5 @@
 ---
-title: L'Arc d'Or
+title: L'Arc d'Or - Tir à l'arc en Charente
 sections:
 - type: intro
   template: intro
