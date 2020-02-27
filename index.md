@@ -6,6 +6,10 @@ sections:
   content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
     rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
   actions:
+  - label: Réserver
+    url: "#"
+    is_scrolly: true
+    is_primary: false
   - label: Découvrir
     url: "#"
     is_scrolly: true
