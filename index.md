@@ -8,14 +8,14 @@ sections:
 
     Ouvert aux membres de l'association et aux extérieurs sur réservation.
   actions:
-  - label: Réserver
-    url: "#"
-    is_scrolly: true
-    is_primary: false
   - label: Découvrir
     url: "#"
     is_scrolly: true
     is_primary: true
+  - label: Réserver
+    url: "#"
+    is_scrolly: true
+    is_primary: false
   title: L'Arc d'Or
   img_path: "/images/parc-01-2020.jpg"
   component: intro.html
