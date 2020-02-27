@@ -3,8 +3,10 @@ title: L'Arc d'Or - Tir à l'arc en Charente
 sections:
 - type: intro
   template: intro
-  content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
-    rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
+  content: |-
+    Parcours de tir à l'arc entre champs et forêt sur cibles 2D, 3D et Nature.
+
+    Ouvert aux membres de l'association et aux extérieurs sur réservation.
   actions:
   - label: Réserver
     url: "#"
@@ -14,7 +16,7 @@ sections:
     url: "#"
     is_scrolly: true
     is_primary: true
-  title: L'Arc d'Or - Parcours de tir à l'arc entre champs et forêt
+  title: L'Arc d'Or
   img_path: "/images/parc-01-2020.jpg"
   component: intro.html
 layout: home
